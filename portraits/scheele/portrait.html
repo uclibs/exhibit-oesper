@@ -1,0 +1,97 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+<!--<% 
+   varlongname = Request.QueryString("longname")
+   if varlongname="" then 
+     varlongname="portrait"
+   end if
+
+  varnumber = Request.QueryString("number")
+  if varnumber="" then
+    varnumber="1"
+  end if
+
+  if cInt(varnumber) < 10 then
+     varnumber="0"&varnumber
+  end if
+  
+  varshortname = Request.QueryString("shortname")
+  if varshortname="" then
+    varshortname="portrait"
+  end if
+
+  varcaption = Request.QueryString("caption")
+  if varcaption="" then
+    varcaption=""
+  end if
+
+
+%>-->
+
+<title><%=varlongname%>, Portrait Collection, The Oesper Collections in the History of Chemistry, University of Cincinnati</title>
+
+<%
+  varbreadname="portrait" + varnumber
+%>
+
+<script type="text/javascript" src="/scripts/breadcrumbs.js"></script>
+<script type="text/javascript" src="/scripts/loadstyles_oesper.js"></script>
+<script type="text/javascript" src="/scripts/smallwindow.js"></script>
+<script type="text/javascript" language="JavaScript" src="/scripts/generateObject.js"></script>
+</head>
+
+<body class="t4">
+
+<!-- this begins the web page as displayed-->
+
+<!-- #include file=../../../includes/header_oesper.inc -->
+
+<div class="pghead">Digital Projects, The Oesper Collections in the History of Chemistry, Portrait Collection, <%=varlongname%></div>
+
+<!-- #include file=../../../includes/subnav_oesper.inc -->
+<!-- #include file=../../../includes/tabs_oesper.inc -->
+ 
+
+   
+<a name="con" id="con"></a>
+<div style="width: 780px; margin: 0px auto 0px auto;" align="center">
+
+<h2>
+The Oesper Collections in the History of Chemistry, Portrait Collection, University of Cincinnati
+<br/><%=varlongname%>
+</h2>
+
+<div id="zoomify_image" align="center">
+
+
+<script type="text/javascript">
+  var objAtts = new Array(new NV_Pair("classid","clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"),new NV_Pair("codebase","http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"),new NV_Pair("width","750"),new NV_Pair("height","450"),new NV_Pair("ID","theMovie"));
+  var params = new Array(new NV_Pair("FlashVars","zoomifyImagePath=<%=varshortname%><%=varnumber%>&amp;zoomifyClickZoom=1&amp;zoomifyToolbarIcon=3"),new NV_Pair("menu","true"),new NV_Pair("src","zoomifyViewer.swf"));
+  var embedAttrs = new Array(new NV_Pair("FlashVars","zoomifyImagePath=<%=varshortname%><%=varnumber%>&amp;zoomifyClickZoom=1&amp;zoomifyToolbarIcon=3"),new NV_Pair("src","zoomifyViewer.swf"),new NV_Pair("menu","true"),new NV_Pair("width","750"),new NV_Pair("height","450"),new NV_Pair("pluginspage","http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"),new NV_Pair("name","theMovie"));
+  generateObj(objAtts, params, embedAttrs);
+</script>
+
+</div>
+
+<div align="center">
+   <br/><a href="/zoomify/index.html" onclick="smallwindow('<%=varshortname%><%=varnumber%>',this.href,'zoomify_help','410','450',1600,100);return false;"><b>Help</b></a>
+</div>
+<p><%=varcaption%></p>
+
+<p>
+<a href="index.asp"><img src="/images/arrowleft.gif" align="top" vspace="0" hspace="2" width="20" height="18" alt="back" title="back" border="0"/></a><a href="index.asp"><b>Back</b></a>
+</p>
+
+</div>
+
+<!-- #include file=../../../includes/footer_oesper.inc -->
+    
+</body>
+</html>

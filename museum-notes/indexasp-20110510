@@ -1,0 +1,206 @@
+<!DOCTYPE html
+PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<meta name="Keywords" content="University Libraries, University of Cincinnati, ARL Research Library, Cincinnati, University of Cincinnati Libraries, Digital Projects, Oesper Collections;" />
+
+<%
+  varbreadname="Notes from the Oesper Collections"
+  varmainwidth="960"
+%>
+
+<title><%=varbreadname%>, The Oesper Collections in the History of Chemistry, University of Cincinnati</title>
+
+<script type="text/javascript" src="/scripts/breadcrumbs.js"></script>
+<script type="text/javascript" src="/scripts/loadstyles_oesper.js"></script>
+<script type="text/javascript" src="/scripts/newwindow.js"></script>
+</head>
+
+<body class="t7" id="notes">
+
+<!-- this begins the web page as displayed-->
+
+<!-- #include file=../../includes/header_oesper.inc -->
+
+<div class="pghead">Digital Projects, The Oesper Collections in the History of Chemistry, <%=varbreadname%></div>
+
+<!-- #include file=../../includes/subnav_oesper.inc -->
+
+<!-- #include file=../../includes/tabs_oesper.inc -->  
+
+<a name="con" id="con"></a>
+<div id="main2" align="center" style="width: <%=varmainwidth%>px;">
+
+<h2>
+The Oesper Collections in the History of Chemistry, University of Cincinnati
+<br/><%=varbreadname%>
+</h2>
+
+<!-- #include file=../../includes/quicklinks_oesper.inc -->
+
+<div id="main3">
+
+<p>
+These occasional notes will highlight items and topics of interest in the Oesper Collections in the History of Chemistry.
+</p>
+
+<table width="612" border="0" cellspacing="0" cellpadding="0">
+
+<tr>
+<td colspan="2" style="font-size: 110%; width:80%; margin:0px; padding: 0px 0px 0px 10px; float: left; border:0px;">
+No. 8: <a href="Boerhaave.pdf">Plagiarizing the Professor</a>, May 10, 2011.
+</td>
+</tr>
+
+<tr>
+<td style="width: 92px; margin: 5px 0px 10px 15px; padding: 0px; border: 0px; float: left;">
+<a href="Boerhaave.pdf"><img src="/oesper/museum-notes/issue8-figure1-thumb.jpg" alt="Hermann Boerhaave (1668-1737)." title="Hermann Boerhaave (1668-1737)." width="75" height="97" vspace="0" hspace="0" border="0" align="left" /></a>
+</td>
+
+<td style="width: 500px; float: left; margin: 5px 0px 10px 5px; padding: 0px; border:0px;"> 
+A tale of the two editions owned by the Oesper Collections of the classic early 18th-century chemistry textbook by the famous Dutch chemist, Herman Boerhaave, involving student plagiarism, law suits, and the famous British lexicographer Samuel Johnson. 
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2" style="font-size: 110%; width:80%; margin:0px; padding: 0px 0px 0px 10px; float: left; border:0px;">
+No. 7: <a href="Chemical-Fountain.pdf">A Rookwood History of Chemistry</a>, April 13, 2011.
+</td>
+</tr>
+
+<tr>
+<td style="width: 92px; margin: 5px 0px 10px 15px; padding: 0px; border: 0px; float: left;">
+<a href="Chemical-Fountain.pdf"><img src="/oesper/museum-notes/issue7-figure1-thumb.jpg" alt="The Rookwood fountain in the entrance foyer of &quot;Old Chemistry&quot; as it looks today." title="The Rookwood fountain in the entrance foyer of &quot;Old Chemistry&quot; as it looks today." width="73" height="116" vspace="0" hspace="0" border="0" align="left" /></a>
+</td>
+
+<td style="width: 500px; float: left; margin: 5px 0px 10px 5px; padding: 0px; border:0px;"> 
+A description with illustrations of the unique ceramic drinking fountain, made of one-of-a-kind faience tiles manufactured by the famous Rookwood Pottery Company, located inside the main entrance to the building now known as &quot;Old Chemistry.&quot;&nbsp; The fountain was a gift to the University from the Senior Engineering Class of 1921 and is designed to symbolically embody, when read from top downwards, the evolution of modern chemistry.
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2" style="font-size: 110%; width:80%; margin:0px; padding: 0px 0px 0px 10px; float: left; border:0px;">
+No. 6: <a href="Single-Lens-Microscope.pdf">The Single-Lens Microscope</a>, March 16, 2011.
+</td>
+</tr>
+
+<tr>
+<td style="width: 92px; margin: 5px 0px 10px 15px; padding: 0px; border: 0px; float: left;">
+<a href="Single-Lens-Microscope.pdf"><img src="/oesper/museum-notes/issue6-figure1-thumb.jpg" alt="The single-lens microscope donated to the Oesper Collections by Dr. O. B. Ramsay." title="The single-lens microscope donated to the Oesper Collections by Dr. O. B. Ramsay." width="92" height="116" vspace="0" hspace="0" border="0" align="left" /></a>
+</td>
+
+<td style="width: 500px; float: left; margin: 5px 0px 10px 5px; padding: 0px; border:0px;"> 
+A description of some of the examples of 19th and early 20th century single-lens microscopes in the Oesper Collections, and the important role played by the single-lens or simple microscope in scientific discovery.
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2" style="font-size: 110%; width:80%; margin:0px; padding: 0px 0px 0px 10px; float: left; border:0px;">
+No. 5: <a href="Hoover-and-Agricola.pdf">Herbert Hoover and the History of Chemistry</a>, February 8, 2011.
+</td>
+</tr>
+
+<tr>
+<td style="width: 92px; margin: 5px 0px 10px 15px; padding: 0px; border: 0px; float: left;">
+<a href="Hoover-and-Agricola.pdf"><img src="/oesper/museum-notes/issue5-figure6-thumb.jpg" alt="The copy of the Hoover translation of De re metallica belonging to the Oesper Collections." title="The copy of the Hoover translation of De re metallica belonging to the Oesper Collections." width="92" height="89" vspace="0" hspace="0" border="0" align="left" /></a>
+</td>
+
+<td style="width: 500px; float: left; margin: 5px 0px 10px 5px; padding: 0px; border:0px;"> 
+The history of the events surrounding the 1929 acquisition of a first edition of the only English-language version of an important 16th-century Latin scientific work translated by an American mining engineer and future President of the United States.
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2" style="font-size: 110%; width:80%; margin:0px; padding: 0px 0px 0px 10px; float: left; border:0px;">
+No. 4: <a href="Elijah-Slack.pdf">Elijah Slack</a>, January 12, 2011.
+</td>
+</tr>
+
+<tr>
+<td style="width: 92px; margin: 5px 0px 10px 15px; padding: 0px; border: 0px; float: left;">
+<a href="Elijah-Slack.pdf"><img src="/oesper/museum-notes/issue4-figure2-thumb.jpg" alt="A pencil sketch of Elijah Slack (1784-1866) at age 35 done by James Audubon for Western Museum of Cincinnati on 11 July of 1820." title="A pencil sketch of Elijah Slack (1784-1866) at age 35 done by James Audubon for Western Museum of Cincinnati on 11 July of 1820." width="92" height="111" vspace="0" hspace="0" border="0" align="left" /></a>
+</td>
+
+<td style="width: 500px; float: left; margin: 5px 0px 10px 5px; padding: 0px; border:0px;"> 
+The life and scientific career of the first Professor of Chemistry in Cincinnati, Elijah Slack, who was Princeton's first Vice-President before coming to Cincinnati and holding positions at Cincinnati College and the Medical College of Ohio.
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2" style="font-size: 110%; width:80%; margin:0px; padding: 0px 0px 0px 10px; float: left; border:0px;">
+No. 3: <a href="Craig-Countercurrent-Train.pdf">The Craig Countercurrent Distribution Train</a>, December 2, 2010.
+</td>
+</tr>
+
+<tr>
+<td style="width: 92px; margin: 5px 0px 10px 15px; padding: 0px; border: 0px; float: left;">
+<a href="Craig-Countercurrent-Train.pdf"><img src="/oesper/museum-notes/issue3-figure5-thumb.jpg" alt="The double-row, 30 unit Craig countercurrent separation train donated by Dr. Robley Williams." title="The double-row, 30 unit Craig countercurrent separation train donated by Dr. Robley Williams." width="92" height="88" vspace="0" hspace="0" border="0" align="left" /></a>
+</td>
+
+<td style="width: 500px; float: left; margin: 5px 0px 10px 5px; padding: 0px; border:0px;"> 
+The Oesper Apparatus Collection has recently acquired a rare, surviving example of a 30-cell Craig Countercurrent Distribution Train. This apparatus, described in 1949 by Dr. Lyman C. Craig of the Rockefeller Institute for Medical Research, formed a key advance in liquid-liquid extraction techniques. Dr. Robley Williams, a former student of Craig, drove the unit across country from his home in Colorado to donate it to the Oesper Collections.
+</td>
+</tr>
+
+<tr>
+<td colspan="2" style="font-size: 110%; width:80%; margin:0px; padding: 0px 0px 0px 10px; float: left; border:0px;">
+No. 2: <a href="Oespers-Salt.pdf">Oesper's Salt</a>, November 12, 2010.
+</td>
+</tr>
+
+<tr>
+<td style="width: 92px; margin: 5px 0px 10px 15px; padding: 0px; border: 0px; float: left;">
+<a href="Oespers-Salt.pdf"><img src="/oesper/museum-notes/issue2-picture1-thumb.jpg" alt="Ralph Edward Oesper, 1884-1977" title="Ralph Edward Oesper, 1884-1977" width="92" height="96" vspace="0" hspace="0" border="0" align="left" /></a>
+</td>
+
+<td style="width: 500px; float: left; margin: 5px 0px 10px 5px; padding: 0px; border:0px;"> 
+This issue of <i>Notes from the Oesper Collections</i> describes the introduction in 1947 by Ralph Edward Oesper of a new oxidimetric standard now known as &quot;Oesper's Salt.&quot;
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2" style="font-size: 110%; width:80%; margin:0px; padding: 0px 0px 0px 10px; float: left; border:0px;">
+No. 1: <a href="In-a-Book.pdf">Found Tucked in a Book</a>, October 8, 2010.
+</td>
+</tr>
+
+<tr>
+<td style="width: 92px; margin: 5px 0px 10px 15px; padding: 0px; border: 0px; float: left;">
+<a href="In-a-Book.pdf"><img src="/oesper/museum-notes/issue1-picture1-thumb.jpg" alt="Thomas Evans, who served as head of the Chemistry Dept. and as Dean of the College of Engineering from 1905 until his premature death in 1907, standing on the right with a group of unidentified colleagues." title="Thomas Evans, who served as head of the Chemistry Dept. and as Dean of the College of Engineering from 1905 until his premature death in 1907, standing on the right with a group of unidentified colleagues." width="92" height="77" vspace="0" hspace="0" border="0" align="left" /></a>
+</td>
+
+<td style="width: 500px; float: left; margin: 5px 0px 10px 5px; padding: 0px; border:0px;"> 
+The first issue of <i>Notes from the Oesper Collections</i> describes the discovery, tucked into the pages of rare books, of previously unknown photographs of notable American chemists.
+</td>
+</tr>
+
+</table>
+
+
+<br/>
+<div style="width: 80%; margin: 10px 0px 0px 10px; padding:0px; float: left; border:0px;">
+<a href="http://www.adobe.com/products/acrobat/readstep2.html"><img src="/images/getacro.gif" border="0" hspace="0" vspace="0" align="middle" width="88" height="31" title="Get Adobe Reader" alt="Get Adobe Reader"/></a>&nbsp;&nbsp;&nbsp;<i>Notes from the Oesper Collections</i> requires <a href="http://www.adobe.com/products/acrobat/readstep2.html">Adobe Acrobat Reader</a>.
+</div> 
+
+
+
+</div>
+
+
+</div>
+
+
+<!-- #include file=../../includes/footer_oesper.inc -->
+    
+</body>
+</html>
