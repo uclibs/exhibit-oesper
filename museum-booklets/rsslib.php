@@ -12,7 +12,7 @@
 	Insert this code into the page that displays the RSS feed:
 	
 	<?php
-	require_once("/mainul/ 09/feeds/rsslib.php");
+	require_once("/mainul/09/feeds/rsslib.php");
 	echo RSS_Display("http://www.xul.fr/rss.xml", 25);
 	?>
 	
